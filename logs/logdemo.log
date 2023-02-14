@@ -14,3 +14,135 @@
 14:51:46.156 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
 14:51:46.156 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@45c8d09f
 14:51:46.156 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:08:18.779 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:08:18.802 [main] INFO  dao.jdbc.CityImpl - city successfully inserted
+15:08:18.802 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:08:18.802 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:08:18.802 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:18:45.177 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:18:45.198 [main] ERROR dao.jdbc.CityImpl - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`big_task`.`stations`, CONSTRAINT `fk_Stations_City` FOREIGN KEY (`city_id`) REFERENCES `city` (`id_city`))
+15:18:45.199 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:18:45.199 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:18:45.199 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:20:49.647 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:20:49.666 [main] INFO  dao.jdbc.CityImpl - city successfully inserted
+15:20:49.666 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:20:49.666 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:20:49.666 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:21:13.753 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:21:13.775 [main] ERROR dao.jdbc.CityImpl - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`big_task`.`stations`, CONSTRAINT `fk_Stations_City` FOREIGN KEY (`city_id`) REFERENCES `city` (`id_city`))
+15:21:13.775 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:21:13.775 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:21:13.775 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:23:58.331 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:23:58.346 [main] ERROR dao.jdbc.CityImpl - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`big_task`.`stations`, CONSTRAINT `fk_Stations_City` FOREIGN KEY (`city_id`) REFERENCES `city` (`id_city`))
+15:23:58.346 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:23:58.346 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:23:58.346 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:26:44.410 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:26:44.425 [main] ERROR dao.jdbc.CityImpl - java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`big_task`.`stations`, CONSTRAINT `fk_Stations_City` FOREIGN KEY (`city_id`) REFERENCES `city` (`id_city`))
+15:26:44.425 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:26:44.425 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:26:44.425 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:27:53.717 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:27:53.732 [main] INFO  dao.jdbc.CityImpl - city successfully updated
+15:27:53.732 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:27:53.732 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:27:53.732 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:32:32.988 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:32:33.010 [main] INFO  dao.jdbc.CityImpl - city successfully deleted
+15:32:33.010 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+15:32:33.010 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:32:33.011 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:39:52.631 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:39:52.651 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+15:39:52.651 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:39:52.651 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+15:48:01.389 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:48:01.407 [main] ERROR dao.jdbc.CityImpl - java.sql.SQLException: Column 'SELECT * FROM city ' not found.
+15:48:01.407 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+15:48:01.408 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+15:48:01.408 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+15:48:01.408 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:06:09.043 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:06:09.066 [main] ERROR dao.jdbc.CityImpl - java.sql.SQLException: Column Index out of range, 0 < 1.
+16:06:09.067 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:06:09.067 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:06:09.067 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:06:09.067 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:06:19.020 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:06:19.041 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:06:19.041 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:06:19.041 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:06:19.041 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:08:53.552 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:08:53.576 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:08:53.576 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:08:53.576 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:08:53.576 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:09:54.150 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:09:54.169 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:09:54.170 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:09:54.170 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:09:54.170 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:10:32.271 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:10:32.301 [main] ERROR dao.jdbc.CityImpl - java.sql.SQLException: Column Index out of range, 3 > 2. 
+16:10:32.301 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:10:32.301 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:10:32.301 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:10:32.301 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:11:06.560 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:11:06.577 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:11:06.577 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:11:06.577 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:11:06.577 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:11:15.715 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:11:15.740 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:11:15.740 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:11:15.740 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:11:15.740 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:23:13.114 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:23:13.137 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:23:13.138 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:23:13.138 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:23:13.138 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:23:40.906 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:23:40.927 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:23:40.927 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:23:40.927 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:23:40.927 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:26:39.905 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:26:39.925 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+16:26:39.925 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+16:26:39.925 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:26:39.925 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:29:18.786 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:18.808 [main] INFO  dao.jdbc.CityImpl - city successfully updated
+16:29:18.809 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+16:29:18.809 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:18.809 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:29:31.279 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:31.300 [main] INFO  dao.jdbc.CityImpl - city successfully updated
+16:29:31.301 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+16:29:31.301 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:31.301 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:29:38.424 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:38.440 [main] INFO  dao.jdbc.CityImpl - city successfully updated
+16:29:38.440 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+16:29:38.440 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:38.440 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:29:59.825 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:59.848 [main] INFO  dao.jdbc.CityImpl - city successfully updated
+16:29:59.848 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+16:29:59.848 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:29:59.848 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:30:17.643 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:30:17.663 [main] INFO  dao.jdbc.CityImpl - city successfully updated
+16:30:17.664 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+16:30:17.664 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:30:17.664 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+16:30:31.368 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:30:31.389 [main] INFO  dao.jdbc.CityImpl - city successfully updated
+16:30:31.389 [main] INFO  dao.jdbc.CityImpl - PreparedStatement closed succesfully
+16:30:31.389 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@53812a9b
+16:30:31.389 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull

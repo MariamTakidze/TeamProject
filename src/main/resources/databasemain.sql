@@ -35,7 +35,7 @@ CREATE TABLE `city` (
 
 LOCK TABLES `city` WRITE;
 /*!40000 ALTER TABLE `city` DISABLE KEYS */;
-INSERT INTO `city` VALUES (1,'Batumi'),(2,'Qutaisi'),(3,'Tbilisi');
+INSERT INTO `city` VALUES (1,'Batumi'),(2,'Qutaisi'),(3,'Tbilisi'),(4,'teeeeest');
 /*!40000 ALTER TABLE `city` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -129,4 +129,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-02-13 23:00:01
+-- Dump completed on 2023-02-14 15:26:37

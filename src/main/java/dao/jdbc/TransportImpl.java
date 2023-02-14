@@ -14,7 +14,7 @@ public class TransportImpl implements ITransport {
 	}
 
 	@Override
-	public void updateEntityById(int id) {
+	public void updateEntityById(int id, Transport transport) {
 		// TODO Auto-generated method stub
 		
 	}

@@ -14,7 +14,7 @@ public class StationImpl implements IStation {
 	}
 
 	@Override
-	public void updateEntityById(int id) {
+	public void updateEntityById(int id,Station station) {
 		// TODO Auto-generated method stub
 		
 	}

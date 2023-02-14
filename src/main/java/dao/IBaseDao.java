@@ -5,7 +5,7 @@ import java.util.List;
 public interface IBaseDao<T> {
 	T readEntityById(int id);
 	
-	void updateEntityById(int id);
+	void updateEntityById(int id,T t);
 	
 	void insertEntity(T t);
 	
