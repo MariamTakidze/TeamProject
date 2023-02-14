@@ -1,0 +1,16 @@
+14:50:18.049 [main] INFO  main.Main - aaaaaaaa
+14:50:18.051 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@7446d8d5
+14:50:18.067 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+14:50:18.067 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+14:50:18.067 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@7446d8d5
+14:50:18.067 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+14:51:26.745 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@45c8d09f
+14:51:26.770 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+14:51:26.776 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+14:51:26.776 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@45c8d09f
+14:51:26.776 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+14:51:46.139 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@45c8d09f
+14:51:46.156 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+14:51:46.156 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+14:51:46.156 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@45c8d09f
+14:51:46.156 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
