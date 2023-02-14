@@ -7,7 +7,7 @@ import models.Distance;
 public interface IDistance   {
 	Distance readEntityByIds(int id, int id2);
 	
-	void updateEntityById(int id,int id2);
+	void updateEntityById(int id,int id2,Distance dist);
 	
 	void insertEntity(Distance distance);
 	
