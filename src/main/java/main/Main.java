@@ -6,6 +6,7 @@ import dao.jdbc.DistanceImpl;
 import dao.jdbc.StationImpl;
 import models.Distance;
 import models.Station;
+import utils.FloydWarshall;
 
 public class Main {
 
@@ -13,11 +14,22 @@ public class Main {
 
 
 		
+		FloydWarshall warsh = new FloydWarshall();
+		
+		Integer[][] distances =warsh.calculateMatrix();
+		
+		
+		for (int i = 0; i < distances.length; i++) {
+			for (int j = 0; j < distances[i].length; j++) {
+				System.out.println(distances[i][j]);
+			}
+		}
+		
 		
 		
 		DistanceImpl dimpl = new DistanceImpl();
 		
-//		System.out.println(dimpl.readEntityByIds(7, 6));
+//		System.out.println(dimpl.readEntityByIds(1, 2).getDistance());
 //		Distance dist = new Distance(7,7,0);
 		//dimpl.insertEntity(dist);
 		//dimpl.deleteEntityByIds(7, 7);

@@ -11,7 +11,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import dao.IDistance;
-import models.City;
 import models.Distance;
 import utils.ConnectionPool;
 
