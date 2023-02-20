@@ -37,8 +37,11 @@ public class Station  {
 		this.idCity = idCity;
 	}
 	
+<<<<<<< HEAD
 	
 	
+=======
+>>>>>>> efc3fd3ec00a51563ecffb7cb5331e87806087ec
 	//-- toString and hashCode
 	@Override
 	public String toString() {
