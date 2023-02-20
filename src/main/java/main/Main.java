@@ -1,11 +1,16 @@
 package main;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import dao.jdbc.DistanceImpl;
 import dao.jdbc.StationImpl;
+import models.City;
 import models.Distance;
 import models.Station;
+import mybatisdao.CityDAO;
+import mybatisdao.DistanceDAO;
+import mybatisdao.StationDAO;
 import utils.FloydWarshall;
 
 public class Main {
@@ -24,10 +29,6 @@ public class Main {
 				System.out.println(distances[i][j]);
 			}
 		}
-		
-		
-		
-		DistanceImpl dimpl = new DistanceImpl();
 		
 //		System.out.println(dimpl.readEntityByIds(1, 2).getDistance());
 //		Distance dist = new Distance(7,7,0);

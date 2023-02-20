@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE mapper PUBLIC '-//mybatis.org//DTD Mapper 3.0//EN'
+        'http://mybatis.org/dtd/mybatis-3-mapper.dtd'>
+
+<mapper namespace="mybatisdao.IDistanceDAO">
+	<select id="getAllDistances" resultMap="resultForDistance">
+		SELECT * FROM distances
+	</select>
+
+	<select id="getDistance" resultMap="resultForDistance" parameterType="Distance">
+		SELECT * FROM distances WHERE station_id_1 = #{idStation1} AND station_id_2 = #{idStation2}
+	</select>
+
+	<resultMap id="resultForDistance" type="Distance">
+        <result property="station_id_1" column="idStation1" />
+        <result property="station_id_2" column="idStation2" />
+        <result property="distance" column="distance" />
+    </resultMap>
+</mapper>
