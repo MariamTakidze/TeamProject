@@ -53,7 +53,7 @@ public class FloydWarshall {
 			int time = 0;
 			
 			
-			LOGGER.info("You are going from "+ from.getName() + " to "+to.getName()+ " shortest distance is " + distance + "kilometer and with "
+			LOGGER.debug("You are going from "+ from.getName() + " to "+to.getName()+ " shortest distance is " + distance + "kilometer and with "
 						+transport.getType()+" you will need "+ time +" minutes to reach it ");
 		}
 
