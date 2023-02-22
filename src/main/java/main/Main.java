@@ -13,6 +13,9 @@ import models.City;
 import models.Distance;
 import models.Station;
 import models.Transport;
+import mybatisdao.CityDAO;
+import mybatisdao.ITransportDAO;
+import mybatisdao.TransportDAO;
 import utils.FloydWarshall;
 
 public class Main {
@@ -24,7 +27,10 @@ public class Main {
 		
 		
 		Transport transport = new Transport(5,"bus",60);
+		TransportDAO transportDAO = new TransportDAO();
 		
+		transportDAO.create(transport);
+		/*
 		StationImpl stationImpl = new StationImpl();
 		
 		Station st1 = stationImpl.readEntityById(2);
@@ -32,7 +38,7 @@ public class Main {
 		
 		FloydWarshall warsh = new FloydWarshall();
 		
-		warsh.getShortestDistance(st1 , st2, transport);
+		warsh.getShortestDistance(st1 , st2, transport);*/
 		
 //		Integer[][] warshDistances = warsh.calculateMatrix();
 

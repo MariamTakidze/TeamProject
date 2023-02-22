@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE mapper PUBLIC '-//mybatis.org//DTD Mapper 3.0//EN'
+        'http://mybatis.org/dtd/mybatis-3-mapper.dtd'>
+
+<mapper namespace="mybatisdao.ITransportDAO">
+	<select id="getAllTransports" resultMap="resultForTransport">
+		SELECT * FROM transport
+	</select>
+
+	<select id="getTransport" resultMap="resultForTransport" parameterType="Long">
+		SELECT * FROM transport WHERE transport_id = #{id}
+	</select>
+	
+	<insert id="create" parameterType="Transport">
+		INSERT INTO transport (transport_id, type, speed) VALUES (#{idTransport}, #{type}, #{speed})
+	</insert>
+	
+	<update id="update" parameterType="Transport">
+		UPDATE transport SET type = #{type}, speed = #{speed} WHERE transport_id = #{idTransport} 
+	</update>
+
+	<delete id="delete" parameterType="Transport">
+		DELETE FROM transport WHERE transport_id = #{idTransport}
+	</delete>
+
+	<resultMap id="resultForTransport" type="Transport">
+        <id property="idTransport" column="transport_id" />
+        <result property="type" column="type" />
+        <result property="speed" column="speed" />
+    </resultMap>
+</mapper>
