@@ -1,0 +1,366 @@
+23:58:27.616 [main] INFO  utils.ConnectionPool - java.io.FileNotFoundException: src\main\resources\dbProperties.properties (No such file or directory)
+23:58:27.620 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+23:58:27.620 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+23:58:27.620 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+23:58:27.620 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+23:58:27.620 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:30.340 [main] INFO  utils.ConnectionPool - java.io.FileNotFoundException: src\main\resources\dbProperties.properties (No such file or directory)
+00:00:30.345 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:30.345 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:30.345 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:30.345 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:30.345 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:58.171 [main] INFO  utils.ConnectionPool - java.io.FileNotFoundException: src\main\resources\dbProperties.properties (No such file or directory)
+00:00:58.176 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:58.176 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:58.176 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:58.176 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:00:58.176 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:01:35.601 [main] INFO  utils.ConnectionPool - java.io.FileNotFoundException: src\main\resources\dbProperties.properties (No such file or directory)
+00:01:35.605 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:01:35.605 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:01:35.605 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:01:35.605 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:01:35.606 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:02:54.219 [main] INFO  utils.ConnectionPool - java.io.FileNotFoundException: src\main\resources\dbProperties.properties (No such file or directory)
+00:02:54.224 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:02:54.224 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:02:54.224 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:02:54.224 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:02:54.224 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:26.821 [main] INFO  utils.ConnectionPool - java.io.FileNotFoundException: src\main\resources\dbProperties.properties (No such file or directory)
+00:03:26.827 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:26.827 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:26.827 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:26.827 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:26.827 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:33.914 [main] INFO  utils.ConnectionPool - java.io.FileNotFoundException: src\main\resources\dbProperties.properties (No such file or directory)
+00:03:33.918 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:33.919 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:33.919 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:33.919 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:03:33.919 [main] INFO  utils.ConnectionPool - java.sql.SQLException: The url cannot be null
+00:05:21.774 [main] INFO  utils.ConnectionPool - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+00:05:21.834 [main] INFO  utils.ConnectionPool - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+00:05:21.883 [main] INFO  utils.ConnectionPool - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+00:05:21.927 [main] INFO  utils.ConnectionPool - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+00:05:21.981 [main] INFO  utils.ConnectionPool - java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+00:05:42.945 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.975 [main] INFO  dao.jdbc.StationImpl - ResultSet closed succesfully
+00:05:42.975 [main] INFO  dao.jdbc.StationImpl - PreparedStarement closed succesfully
+00:05:42.976 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.976 [main] INFO  dao.jdbc.StationImpl - Connection putback is successfull
+00:05:42.976 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.978 [main] INFO  dao.jdbc.StationImpl - ResultSet closed succesfully
+00:05:42.978 [main] INFO  dao.jdbc.StationImpl - PreparedStarement closed succesfully
+00:05:42.978 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.978 [main] INFO  dao.jdbc.StationImpl - Connection putback is successfull
+00:05:42.980 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.981 [main] INFO  dao.jdbc.StationImpl - ResultSet closed succesfully
+00:05:42.981 [main] INFO  dao.jdbc.StationImpl - PreparedStarement closed succesfully
+00:05:42.981 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.981 [main] INFO  dao.jdbc.StationImpl - Connection putback is successfull
+00:05:42.982 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.984 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.984 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.984 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.984 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.984 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.985 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.986 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.986 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.986 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.986 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.987 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.987 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.987 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.987 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.987 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.988 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.989 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.989 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.989 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.989 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.990 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.990 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.990 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.990 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.990 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.991 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.991 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.991 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.991 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.991 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.995 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.995 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.995 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.996 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.996 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.997 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:42.997 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:42.997 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:42.997 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:42.997 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.004 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.004 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.004 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.004 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.004 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.007 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.008 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.008 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.008 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.009 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.010 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.011 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.011 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.011 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.011 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.012 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.013 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.013 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.013 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.013 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.014 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.014 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.014 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.014 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.014 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.015 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.016 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.016 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.016 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.016 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.017 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.017 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.017 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.017 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.017 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.018 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.019 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.020 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.021 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.021 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.023 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.024 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.024 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.024 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.024 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.025 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.026 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.027 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.027 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.027 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.030 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.031 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.031 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.031 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.031 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.033 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.033 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.033 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.034 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.034 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.035 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.035 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.035 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.035 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.035 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.038 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.038 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.038 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.038 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.038 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.039 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.040 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.040 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.040 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.040 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.042 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.042 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.043 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.043 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.043 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.043 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.044 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.044 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.044 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.044 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.045 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.046 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.046 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.046 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.046 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.047 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.047 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.047 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.048 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.048 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.049 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.049 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.049 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.049 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.049 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.049 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.050 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.050 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.050 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.050 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.052 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.052 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.052 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.052 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.052 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.054 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.054 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.054 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.054 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.054 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.055 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.055 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.055 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.055 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.055 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.056 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.056 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.056 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.056 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.056 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.056 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.056 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.056 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.056 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.056 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.057 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.058 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.058 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.058 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.058 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.059 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.061 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.064 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.064 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.064 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.065 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.066 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.066 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.066 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.066 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.066 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.066 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.066 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.066 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.066 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.069 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.070 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.070 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.070 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.070 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.072 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.072 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.072 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.072 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.072 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.074 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.074 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.074 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.074 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.074 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.075 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.075 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.075 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.075 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.075 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.076 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.077 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.077 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.077 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.077 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.078 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.078 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.078 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.078 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.078 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.081 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.081 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.081 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.081 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.081 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.083 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.083 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.083 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.083 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.084 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.085 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.086 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.086 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.086 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.086 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.087 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.087 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.087 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.088 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.088 [main] INFO  utils.ConnectionPool - The connection was retrieved: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.089 [main] INFO  dao.jdbc.CityImpl - ResultSet closed succesfully
+00:05:43.090 [main] INFO  dao.jdbc.CityImpl - PreparedStarement closed succesfully
+00:05:43.091 [main] INFO  utils.ConnectionPool - Putting the connection back to Connection pool: com.mysql.cj.jdbc.ConnectionImpl@aafcffa
+00:05:43.091 [main] INFO  dao.jdbc.CityImpl - Connection putback is successfull
+00:05:43.092 [main] DEBUG utils.FloydWarshall - You are going from plaza to sadguri shortest distance is 235kilometer and with bus you will need 0 minutes to reach it 
+01:08:46.775 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+01:08:46.790 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:08:46.791 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:08:46.796 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:08:46.797 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:08:47.006 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+01:08:47.477 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 898695324.
+01:08:47.480 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3591009c]
+01:08:47.499 [main] DEBUG mybatisdao.ICityDAO.create - ==>  Preparing: INSERT INTO city (id_city, name) VALUES (?, ?)
+01:08:47.579 [main] DEBUG mybatisdao.ICityDAO.create - ==> Parameters: null, null
+01:08:47.595 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Rolling back JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3591009c]
+01:08:47.603 [main] ERROR mybatisdao.CityDAO - org.apache.ibatis.exceptions.PersistenceException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'id_city' cannot be null
+### The error may exist in mybatis-mappers/city-mapper.xml
+### The error may involve mybatisdao.ICityDAO.create-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO city (id_city, name) VALUES (?, ?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Column 'id_city' cannot be null
+01:08:47.604 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3591009c]
+01:08:47.605 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@3591009c]
+01:08:47.623 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 898695324 to pool.
+01:23:00.106 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+01:23:00.121 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:23:00.126 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:23:00.128 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:23:00.128 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:23:00.351 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+01:23:00.823 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1911978617.
+01:23:00.826 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@71f67a79]
+01:23:00.844 [main] DEBUG mybatisdao.ITransportDAO.create - ==>  Preparing: INSERT INTO transport (transport_id, type, speed) VALUES (?, bus, ?)
+01:23:00.960 [main] DEBUG mybatisdao.ITransportDAO.create - ==> Parameters: 5(Integer), 60(Integer)
+01:23:00.989 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Rolling back JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@71f67a79]
+01:23:00.991 [main] ERROR mybatisdao.TransportDAO - org.apache.ibatis.exceptions.PersistenceException: 
+### Error updating database.  Cause: java.sql.SQLSyntaxErrorException: Unknown column 'bus' in 'field list'
+### The error may exist in mybatis-mappers/transport-mapper.xml
+### The error may involve mybatisdao.ITransportDAO.create-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO transport (transport_id, type, speed) VALUES (?, bus, ?)
+### Cause: java.sql.SQLSyntaxErrorException: Unknown column 'bus' in 'field list'
+01:23:00.992 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@71f67a79]
+01:23:00.993 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@71f67a79]
+01:23:00.994 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1911978617 to pool.
+01:25:34.619 [main] DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+01:25:34.635 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:25:34.640 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:25:34.642 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:25:34.643 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+01:25:34.832 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+01:25:35.340 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1968552224.
+01:25:35.346 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7555b920]
+01:25:35.364 [main] DEBUG mybatisdao.ITransportDAO.create - ==>  Preparing: INSERT INTO transport (transport_id, type, speed) VALUES (?, ?, ?)
+01:25:35.448 [main] DEBUG mybatisdao.ITransportDAO.create - ==> Parameters: 5(Integer), bus(String), 60(Integer)
+01:25:35.465 [main] DEBUG mybatisdao.ITransportDAO.create - <==    Updates: 1
+01:25:35.466 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Committing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7555b920]
+01:25:35.471 [main] INFO  mybatisdao.TransportDAO - Transport record created
+01:25:35.471 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7555b920]
+01:25:35.472 [main] DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@7555b920]
+01:25:35.472 [main] DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1968552224 to pool.

@@ -69,7 +69,7 @@ public class ConnectionPool {
     
     static {
     	
-    	String path = "src\\main\\resources\\dbProperties.properties";
+    	String path = "src/main/resources/dbProperties.properties";
         try (FileInputStream file = new FileInputStream(path)) {
             p.load(file);
         } catch (IOException e) {

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE mapper PUBLIC '-//mybatis.org//DTD Mapper 3.0//EN'
+        'http://mybatis.org/dtd/mybatis-3-mapper.dtd'>
+
+<mapper namespace="mybatisdao.ICityDAO">
+	<select id="getAllCities" resultMap="resultForCities">
+		SELECT * FROM city
+	</select>
+
+	<select id="getCity" resultMap="resultForCities" parameterType="Long">
+		SELECT * FROM city WHERE id_city = #{id}
+	</select>
+	
+	<insert id="create" parameterType="City">
+		INSERT INTO city (id_city, name) VALUES (#{idCity}, #{name})
+	</insert>
+	
+	<update id="update" parameterType="City">
+		UPDATE city SET name = #{name} WHERE id_city = #{idCity}
+	</update>
+
+	<delete id="delete" parameterType="City">
+		DELETE FROM city WHERE id_city = #{idCity}
+	</delete>
+
+	<resultMap id="resultForCities" type="City">
+        <id property="idCity" column="id_city"/>
+        <result property="name" column="name"/>
+    </resultMap>
+</mapper>

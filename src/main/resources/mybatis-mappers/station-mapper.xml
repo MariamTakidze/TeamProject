@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE mapper PUBLIC '-//mybatis.org//DTD Mapper 3.0//EN'
+        'http://mybatis.org/dtd/mybatis-3-mapper.dtd'>
+
+<mapper namespace="mybatisdao.IStationDAO">
+	<select id="getAllStations" resultMap="resultForStations">
+		SELECT * FROM stations
+	</select>
+
+	<select id="getStation" resultMap="resultForStations" parameterType="Long">
+		SELECT * FROM stations WHERE id_stations = #{id}
+	</select>
+	
+	<insert id="create"  parameterType="Station">
+		INSERT INTO stations (id_stations, name, city_id) VALUES (#{idStation}, #{name}, #{idCity})
+	</insert>
+	
+	<update id="update"  parameterType="Station">
+		UPDATE stations SET name = #{name}, city_id = #{idCity} WHERE id_stations = #{idStation}
+	</update>
+
+	<delete id="delete"  parameterType="Station">
+		DELETE FROM stations WHERE stations_id = #{idStation}
+	</delete>
+
+	<resultMap id="resultForStations" type="Station">
+        <id property="idStation" column="id_stations" />
+        <result property="name" column="name" />
+        <result property="idCity" column="city_id" />
+    </resultMap>
+</mapper>
